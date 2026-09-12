@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+tf-keras==2.20.0
+transformers==4.46.3
+huggingface-hub
+sentence-transformers
+scikit-learn
+pandas
+numpy
+pypdf
