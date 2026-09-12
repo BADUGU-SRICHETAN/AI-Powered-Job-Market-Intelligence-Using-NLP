@@ -757,4 +757,4 @@ Also, if your Streamlit app is deployed, add this section near the top:
 
 # 🚀 Live Demo
 
-👉 **Streamlit App:** <YOUR_STREAMLIT_APP_URL>
+👉 **Streamlit App:** https://ai-powered-job-market-intelligence-using-nlp.streamlit.app/
